@@ -1,0 +1,31 @@
+ID,Name,Address,State,Avg_Miles,Acc_Num,Level,Risk
+28,Ryan Feller,2221 S Sherman Ave Sioux Falls SD 57105,SD,28,13,1,Very Low
+12,Kate Winslet,1010 W Pershing Blvd Cheyenne WY 82001,WY,13,54,1,Very Low
+16,Brad Muller,2107 E Echo Dr Billings MT 59105,MT,46,60,1,Very Low
+17,Elizabeth Gonzalez,465 Calle Volver Santa Fe NM 87505,NM,19,85,1,Very Low
+25,Jim Baylor,1912 SW Fairlawn Rd Topeka KS 66604,KS,21,105,2,Low
+29,Alex Henderson,41 Clarke St Burlington VT 05401,VT,25,142,2,Low
+7,Tyler Jones,5020 W Morris Hill Rd Boise ID 83706,ID,33,544,2,Low
+13,Frank Cappolo,4920 Hillcrest Ave Little Rock AR 72205,AR,23,568,2,Low
+2,Jim Williams,645 Rio Virgin Dr St George Utah 84790,UT,20,583,3,Moderately Low
+4,Caitlin Carter,727 Lorillard Ct Madison WI 53703,WI,8,1313,3,Moderately Low
+11,Richard Dunn,14 Frances St Portland ME 04102,ME,80,1719,3,Moderately Low
+14,Chris Farr,239 Philadelphia Pike Wilmington DE 19809,DE,7,2261,4,Average
+9,Tim Fillmore,13040 Moccasin Gap Rd Tallahassee Florida 32309,FL,33,2325,4,Average
+22,Emily Proctor,387 Manchester St Manchester NH 03103,NH,18,3533,4,Average
+27,James Carlton,1810 15th St NW Washington DC 20009,DC,16,3653,4,Average
+6,George Carlin,3520 Vincennes Pl New Orleans LA 70125,LA,14,3725,5,Average
+1,John Park,2612 Espanola St NE Albuquerque NM 87110,NM,10,3821,5,Average
+8,James Jackson,3330 Sleater Kinney Rd NE Olympia Washington 98506,WA,20,3940,5,Average
+18,Jim Ferdinand,946 12th St Des Moines IA 50309,IA,12,4532,6,Moderately High
+21,Javier Smith,1565 Holly RD North Brunswick NJ 08902,NJ,15,7037,6,Moderately High
+30,George Grover,21 Jefferson St Norwalk CT 06851,CT,31,8855,6,Moderately High
+15,Michael Rheas,26 Bradley St Providence RI 02908,RI,18,9987,6,Moderately High
+24,Bob Russell,104 Crews Dr Louisville KY 40218,KY,30,10647,7,High
+26,Oscar Kimmel,1211 Camelia Rd Charleston SC 29407,SC,33,12269,7,High
+19,Tony Cross,1901 N New Jersey St Indianapolis IN 46202,IN,31,21604,7,High
+5,Hugh Smith,1628 Harrison St Denver CO 80206,CO,13,22968,7,High
+20,Jack Donahue,202 Saint Martins RD Baltimore MD 21218,MD,28,23067,8,Very High
+10,Grant Johnson,5207 Patterson Ave Richmond Virginia 23226,VA,36,26915,8,Very High
+23,Charles Allen,239 5th Ave Nashville TN 37219,TN,20,37520,8,Very High
+3,Adam Kawalsky,15819 S 27th Way Phoenix Arizona 85048,AZ,33,44907,8,Very High
