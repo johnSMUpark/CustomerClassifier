@@ -1,4 +1,4 @@
-# CustomerClassifier
+# CustomerRiskAnalysis
 Risk Mitigation Application for Auto Insurance Companies
 
 1 GB of US Accident Data File Not Included.
