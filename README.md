@@ -1,6 +1,6 @@
 # CustomerClassifier
 Risk Mitigation Application for Auto Insurance Companies
 
-`pip install googlemaps`\n
-`pip install gspread`\n
-`pip install oauth2client`\n
+`pip install googlemaps`<br/>
+`pip install gspread`<br/>
+`pip install oauth2client`<br/>
