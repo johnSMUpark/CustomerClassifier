@@ -1,31 +1,51 @@
 ID,Name,Address,State,Avg_Miles,Acc_Num,Level,Risk
+47,Kyle White,4775 Harvest Dr Fargo ND 58104,ND,32,12,1,Very Low
 28,Ryan Feller,2221 S Sherman Ave Sioux Falls SD 57105,SD,28,13,1,Very Low
+33,Rudy Owens,303 Ruby Ridge Dr Franklin WV 26807,WV,24,19,1,Very Low
+45,Leslie Thomas,3035 E 1st St Casper WY 82609,WY,55,29,1,Very Low
+3,Adam Kawalsky,4830 US Highway 93 S Whitefish MT 59937,MT,35,32,1,Very Low
 12,Kate Winslet,1010 W Pershing Blvd Cheyenne WY 82001,WY,13,54,1,Very Low
-16,Brad Muller,2107 E Echo Dr Billings MT 59105,MT,46,60,1,Very Low
-17,Elizabeth Gonzalez,465 Calle Volver Santa Fe NM 87505,NM,19,85,1,Very Low
+48,Barbara Withers,2548 Eastwood Rd Decorah IA 52101,IA,37,55,2,Low
+16,Brad Muller,2107 E Echo Dr Billings MT 59105,MT,46,60,2,Low
+17,Elizabeth Gonzalez,465 Calle Volver Santa Fe NM 87505,NM,19,85,2,Low
 25,Jim Baylor,1912 SW Fairlawn Rd Topeka KS 66604,KS,21,105,2,Low
+31,Willis Reed,3830 Montana Verde Rd Santa Fe NM 87507,NM,28,113,2,Low
+37,Drew Breeze,8060 N Karen Rd Pocatello ID 83204,ID,34,139,2,Low
 29,Alex Henderson,41 Clarke St Burlington VT 05401,VT,25,142,2,Low
-7,Tyler Jones,5020 W Morris Hill Rd Boise ID 83706,ID,33,544,2,Low
-13,Frank Cappolo,4920 Hillcrest Ave Little Rock AR 72205,AR,23,568,2,Low
-2,Jim Williams,645 Rio Virgin Dr St George Utah 84790,UT,20,583,3,Moderately Low
-4,Caitlin Carter,727 Lorillard Ct Madison WI 53703,WI,8,1313,3,Moderately Low
-11,Richard Dunn,14 Frances St Portland ME 04102,ME,80,1719,3,Moderately Low
+46,Jenny Ortega,108 Silverwood Point Hot Springs AR 71913,AR,43,151,3,Moderately Low
+44,Omar Jackson,5650 Coe Dr Wichita KS 67208,KS,23,173,3,Moderately Low
+39,Cindy Spellman,6 Jed Cir Bellows Falls VT 05101,VT,35,247,3,Moderately Low
+36,Keegan Morrison,360 Watson Heights Rd Fayette ME 04349,ME,29,303,3,Moderately Low
+7,Tyler Jones,5020 W Morris Hill Rd Boise ID 83706,ID,33,544,3,Moderately Low
+13,Frank Cappolo,4920 Hillcrest Ave Little Rock AR 72205,AR,23,568,3,Moderately Low
+2,Jim Williams,645 Rio Virgin Dr St George Utah 84790,UT,20,583,4,Average
+41,Zoey Hunt,16 Packers Falls Rd Newmarket NH 03857,NH,15,1027,4,Average
+4,Caitlin Carter,727 Lorillard Ct Madison WI 53703,WI,8,1313,4,Average
+43,Maria Neeman,555 Knollwood Dr Se Cedar Rapids IA 52403,IA,30,1404,4,Average
+11,Richard Dunn,14 Frances St Portland ME 04102,ME,80,1719,4,Average
 14,Chris Farr,239 Philadelphia Pike Wilmington DE 19809,DE,7,2261,4,Average
-9,Tim Fillmore,13040 Moccasin Gap Rd Tallahassee Florida 32309,FL,33,2325,4,Average
-22,Emily Proctor,387 Manchester St Manchester NH 03103,NH,18,3533,4,Average
-27,James Carlton,1810 15th St NW Washington DC 20009,DC,16,3653,4,Average
+40,Lauren Meeks,3004 Crossway St Jackson MS 39212,MS,27,2313,5,Average
+50,Jonathan Lake,3101 Majestic View Walk Lexington KY 40511,KY,25,3207,5,Average
+22,Emily Proctor,387 Manchester St Manchester NH 03103,NH,18,3533,5,Average
+27,James Carlton,1810 15th St NW Washington DC 20009,DC,16,3653,5,Average
+32,Reemus White,4324 14th St NW Washington DC 20011,DC,12,3653,5,Average
 6,George Carlin,3520 Vincennes Pl New Orleans LA 70125,LA,14,3725,5,Average
-1,John Park,2612 Espanola St NE Albuquerque NM 87110,NM,10,3821,5,Average
-8,James Jackson,3330 Sleater Kinney Rd NE Olympia Washington 98506,WA,20,3940,5,Average
+10,Grant Johnson,321 Wagon Wheel Ln Hockessin DE 19707,DE,18,3738,6,Moderately High
+1,John Park,2612 Espanola St NE Albuquerque NM 87110,NM,10,3821,6,Moderately High
+8,James Jackson,3330 Sleater Kinney Rd NE Olympia Washington 98506,WA,20,3940,6,Moderately High
+38,Coleman Ord,336 Liborio Dr Middletown DE 19709,DE,40,4248,6,Moderately High
 18,Jim Ferdinand,946 12th St Des Moines IA 50309,IA,12,4532,6,Moderately High
-21,Javier Smith,1565 Holly RD North Brunswick NJ 08902,NJ,15,7037,6,Moderately High
-30,George Grover,21 Jefferson St Norwalk CT 06851,CT,31,8855,6,Moderately High
-15,Michael Rheas,26 Bradley St Providence RI 02908,RI,18,9987,6,Moderately High
-24,Bob Russell,104 Crews Dr Louisville KY 40218,KY,30,10647,7,High
-26,Oscar Kimmel,1211 Camelia Rd Charleston SC 29407,SC,33,12269,7,High
-19,Tony Cross,1901 N New Jersey St Indianapolis IN 46202,IN,31,21604,7,High
-5,Hugh Smith,1628 Harrison St Denver CO 80206,CO,13,22968,7,High
+9,Tim Fillmore,3135 SW 23rd St Des Moines IA 50321,IA,15,4628,6,Moderately High
+35,Ethan Hawkes,14742 Meadow Ln Leawood KS 66224,KS,26,6396,7,High
+21,Javier Smith,1565 Holly RD North Brunswick NJ 08902,NJ,15,7037,7,High
+34,Bill Howard,15011 La Vale Rd Monkton MD 21111,MD,18,8745,7,High
+30,George Grover,21 Jefferson St Norwalk CT 06851,CT,31,8855,7,High
+49,Holly Liu,3134 N 53rd St Milwaukee WI 53216,WI,17,8933,7,High
+15,Michael Rheas,26 Bradley St Providence RI 02908,RI,18,9987,7,High
+42,Russell Camp,55 Roseneath Ave Newport RI 02840,RI,44,10483,8,Very High
+24,Bob Russell,104 Crews Dr Louisville KY 40218,KY,30,10647,8,Very High
+19,Tony Cross,1901 N New Jersey St Indianapolis IN 46202,IN,31,21604,8,Very High
+5,Hugh Smith,1628 Harrison St Denver CO 80206,CO,13,22968,8,Very High
 20,Jack Donahue,202 Saint Martins RD Baltimore MD 21218,MD,28,23067,8,Very High
-10,Grant Johnson,5207 Patterson Ave Richmond Virginia 23226,VA,36,26915,8,Very High
+26,Oscar Kimmel,925 NW 21st St Oklahoma City OK 73106,OK,28,35033,8,Very High
 23,Charles Allen,239 5th Ave Nashville TN 37219,TN,20,37520,8,Very High
-3,Adam Kawalsky,15819 S 27th Way Phoenix Arizona 85048,AZ,33,44907,8,Very High

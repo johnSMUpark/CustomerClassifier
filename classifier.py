@@ -17,7 +17,7 @@ for state in states:                            # for each state, create state-l
 
 '''
 import requests # check if api key is valid
-api_key = "AIzaSyBp7Ysf6c_Gdsgxjceb53oVsP-onRfses8"
+api_key = "Not shown for security reasons"
 url_base = "https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key="
 url = url_base + api_key
 r = requests.get(url)
@@ -137,5 +137,5 @@ scope = ["https://www.googleapis.com/auth/spreadsheets",
 credentials = ServiceAccountCredentials.from_json_keyfile_name("client_secret.json", scope)
 client = gspread.authorize(credentials)
 content = open("Customer_Data.csv", "r").read()
-sheet_id = "1ECLDFl9w8hD08ELUgkhEecjGye302uxwGOest5YLHRA"
+#sheet_id = "Not shown for security reasons"
 client.import_csv(sheet_id, content.encode("utf-8"))
